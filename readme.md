@@ -15,6 +15,6 @@
 
   <br>
 
-![Project-Image](./Proj_image/Project.png)
+![Project-Image](./Proj_Image/Project.png)
 
 <br>
